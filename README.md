@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Senuji Vidanage</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Building Scalable Web & Mobile Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senuji-03&label=Profile%20views&color=0e75b6&style=flat" alt="senuji-03" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
