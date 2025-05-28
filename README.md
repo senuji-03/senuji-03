@@ -77,11 +77,16 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
+
+
+---
+
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=senuji-03&repo=YOUR_REPO_NAME&theme=default" alt="Top Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=senuji-03&repo=portfolio&theme=default" alt="Top Repo" />
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=senuji-03&theme=flat&no-bg=true&no-frame=true" alt="GitHub Trophies" />
