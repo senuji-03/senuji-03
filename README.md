@@ -1,15 +1,9 @@
 <h1 align="center">Hello 👋 I'm Senuji Vidanage</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Building Scalable Web & Mobile Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senuji-03&label=Profile%20views&color=0e75b6&style=flat" alt="senuji-03" />
-</p>
+>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=senuji-03&theme=flat&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 ---
 
@@ -83,6 +77,11 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=senuji-03&theme=flat&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -92,6 +91,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=senuji-03&theme=default" alt="GitHub Streak" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuji-03&layout=compact&langs_count=8&theme=default" alt="Top Languages" width="50%" />
-</p>
+
