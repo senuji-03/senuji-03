@@ -84,7 +84,7 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DinuriN&repo=MediTech&theme=default" alt="MediTech Repo" />
+  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=senuji-03&repo=funfoodfacts&theme=default" alt="FunFoodFacts Repo" />
 </p>
 
