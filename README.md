@@ -29,10 +29,9 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/senujividanage)
-- 📘 [Facebook](https://www.facebook.com/senujividanage)
-- 🐦 [Twitter (X)](https://twitter.com/your-twitter-username) *(optional – if you have one)*
-- 📸 [Instagram](https://instagram.com/your-instagram-username) *(optional – if you want to share)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/senuji-vidanage-77998727a/)
+- 📘 [Facebook](https://www.facebook.com/senuji.vidanage?mibextid=wwXIfr&mibextid=wwXIfr)
+- 📸 [Instagram](https://www.instagram.com/senuji__03/?igsh=MXZvdHFoenlvNnhyZg%3D%3D&utm_source=qr#) *(optional – if you want to share)*
 
 ---
 
